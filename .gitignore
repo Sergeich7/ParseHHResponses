@@ -1,3 +1,6 @@
+# не заливаем не нужен он там
+chromedriver.exe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -150,3 +153,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+_del_doc.txt
+_del_GetSource.py
+_del_oneresume.py
+_del_ParseHH2.py
+_del_ParseHHResponses.py
+_del_ParsereBySoup.py
+_my_credentials.json
+_my_token.json
+_my_token.pickle
+config.ini
+credentials.json
+hh.gsheet
+hh.xlsx
+phh.gsheet
+token.json
+token.pickle
+out/
+output/
+Инструкция по акредитации.gdoc
+Настройка Google Cloud, для работы c Google Sheets через API.txt
+Описание.gdoc
